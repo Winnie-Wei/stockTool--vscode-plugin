@@ -1,2 +1,4 @@
-# stockTool--vscode-plugin
-自娱自乐的简易版vscode插件，盯盘专用
+# 简易版vscode股票插件
+# 输入的股票代码需要sz/sh开头，暂时只做了沪深股票处理
+# 增删查都ok
+# 第一次写ts，有点紧张
